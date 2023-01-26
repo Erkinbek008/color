@@ -1,0 +1,59 @@
+/* .bg{
+    background-color: aqua;
+}
+body{
+    background: red;
+}
+button{
+    color: blue;
+} */
+body {
+    height: 100vh;
+    width: 100vw;
+    background-image: url(https://www.shutterstock.com/image-vector/word-english-vector-banner-text-260nw-345297785.jpg);
+    background-size: cover;
+
+}
+h1{
+    text-align: center;
+    color: aqua;
+    border: aqua solid 1px;
+    background-color: black;
+    border-radius: 5px;
+
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    background-color: white;
+}
+input{
+    width: 250px;
+    background-color: chartreuse;
+    border: 2px solid aqua;
+    border-top-left-radius: 2px;
+    text-align: center;
+    color: red;
+}
+h3{
+    background-color: black;
+    border: solid 1px black;
+    color: aqua;
+    font-weight: 20;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.teng{
+    background-image:url(https://englishtivi.com/wp-content/uploads/2022/06/colors-name-in-english.jpg);
+    background-size: cover;
+}
+
+.katta{
+    background-image: url(https://images.twinkl.co.uk/tw1n/image/private/t_630/image_repo/b7/f7/t2-s-928-solar-system-planets-in-order-display-banner_ver_1.jpg);
+    background-size: cover;
+}
+.kichik{
+    background-image: url(https://englishan.com/wp-content/uploads/2022/10/Household-Item-Names-with-Pictures.png);
+    background-size: cover;
+}
